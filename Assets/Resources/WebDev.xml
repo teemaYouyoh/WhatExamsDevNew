@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+
+  <question>
+    <text>Справжня назва JavaScript?</text>
+    <answers>
+      <answer>ЕкмаСкрипт</answer>
+      <answer>ТакЦеЖСкрипт</answer>
+      <answer>ДжаваСкрипт</answer>
+      <answer>ЖабаСкрипт</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <question>
+    <text>Диструктивне присвоювання … звернення до полiв об’єкта:</text>
+    <answers>
+      <answer>Облегчує</answer>
+      <answer>Єднає</answer>
+      <answer>Нищить</answer>
+      <answer>Лiчить</answer>
+    </answers>
+    <points>10</points>
+  </question>
+
+  <question>
+    <text>[9] меньше [10]?</text>
+    <answers>
+      <answer>false</answer>
+      <answer>true</answer>
+      <answer>не знаю</answer>
+      <answer>ще не вчив</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <question>
+    <text>Хто сказав цi чудовi слова «Швидкiсть багато значить» ?</text>
+    <answers>
+      <answer>Павло Дуров</answer>
+      <answer>Джеймсон Стеттхем</answer>
+      <answer>Бiлл Гейтс</answer>
+      <answer>Уiлл Смiт</answer>
+    </answers>
+    <points>3</points>
+  </question>
+
+  <question>
+    <text>Який предмет твiй улюблений?</text>
+    <answers>
+      <answer>JavaScript</answer>
+      <answer>C#</answer>
+      <answer>Iсторiя</answer>
+      <answer>Iнший</answer>
+    </answers>
+    <points>2</points>
+  </question>
+
+</questions>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+  <DialogueLine speaker="npc">
+    <text>Я буду з тобою розмовляти тiльки якщо вiдповiси на одне питання.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Любиш Wordpress?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Нi</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Я цiную таких студентiв.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Я викладач JavaScript – Брендон Ейх.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Як сказав мiй кумир i наставник, найвеличнiший з прогамiстiв..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>..Павло Дуров</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>«Швидкiсть багато значить!»</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>До справи: тобi потрiбен залiк, менi потрiбно щоб ти мене здивував</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text> if( I.askQuestion() ), тодi ти: return answer </text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Зрозумiв?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+  <text>Звiсно, сер!</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Екзамен завершено. Оцiнка вже у залiковцi. Тут тобi бiльше робити нема що.</text>
+  </DialogueLine>
+</dialogue>

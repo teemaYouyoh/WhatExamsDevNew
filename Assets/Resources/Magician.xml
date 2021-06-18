@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+  <DialogueLine speaker="npc">
+    <text>Ти сюди прийшов не просто так..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Я вiдчуваю.</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>...</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>НА КОЛIНИ!</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>...</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Чи готов ти вiддати життя за ООП!?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+  <text>Взагалi-то нi..</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Добре, спитаю по-iншому.</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Хочеш отримати залiк з ООП?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Звичайно..</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Тодi принеси клятву кров’ю!</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>ну.. або знаннями…</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Гадаю, другий варiант.</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Як побажаєш..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Нехай почнеться присяга ООП!</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Можливо екзамен?</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Чи улянешься ты до кiнца життя програмувати лише на ООП?</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>А якщо нi?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Трапиться жахливе!</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Перездача у наступному семестрi</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Клянусь!</text>
+  </DialogueLine>
+
+  <DialogueLine speaker="npc">
+    <text>Посвята закiнчена. Ступай далi, сину мiй!</text>
+  </DialogueLine>
+</dialogue>

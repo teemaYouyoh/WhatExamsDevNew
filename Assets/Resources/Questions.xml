@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+
+  <question>
+    <text>Першi кораблi воiнiв, що до джедаiв були?</text>
+    <answers>
+      <answer>Чайка</answer>
+      <answer>X-Wing</answer>
+      <answer>Delta-6</answer>
+      <answer>StarFly</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <question>
+    <text>Столиця республiки стародваньоi, що у свiтi була ранiше?</text>
+    <answers>
+      <answer>Киiв</answer>
+      <answer>Татуин</answer>
+      <answer>Набу</answer>
+      <answer>Мандалор</answer>
+    </answers>
+    <points>10</points>
+  </question>
+
+  <question>
+    <text>Сiтху якому стародавнi воiни, листа писали?</text>
+    <answers>
+      <answer>Мехмед IV</answer>
+      <answer>Дарт Сирiус</answer>
+      <answer>Дарт Мол</answer>
+      <answer>Рон Уiзлi</answer>
+    </answers>
+    <points>3</points>
+  </question>
+
+  <question>
+    <text>Який предмет твiй улюблений?</text>
+    <answers>
+      <answer>Iсторiя</answer>
+      <answer>C#</answer>
+      <answer>JavaScript</answer>
+      <answer>Iнший</answer>
+    </answers>
+    <points>2</points>
+  </question>
+
+</questions>

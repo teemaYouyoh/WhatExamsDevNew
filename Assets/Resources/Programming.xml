@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+
+  <question>
+    <text>Чи визнаєш, що ти екземпляр класу people?</text>
+    <answers>
+      <answer>Так</answer>
+      <answer>Нi</answer>
+      <answer>Не знаю</answer>
+      <answer>Я вчив!</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+  <question>
+    <text>Який рiвень доступу у невiрних до нашого вчення?</text>
+    <answers>
+      <answer>private</answer>
+      <answer>public</answer>
+      <answer>protected</answer>
+      <answer>ммм…</answer>
+    </answers>
+    <points>10</points>
+  </question>
+
+  <question>
+    <text>Який предмет твiй улюблений?</text>
+    <answers>
+      <answer>C#</answer>
+      <answer>JavaScript</answer>
+      <answer>Iсторiя</answer>
+      <answer>Iнший</answer>
+    </answers>
+    <points>5</points>
+  </question>
+
+
+</questions>

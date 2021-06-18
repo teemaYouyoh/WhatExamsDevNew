@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+  <DialogueLine speaker="npc">
+    <text>Маскування силу застосував я, кiмнату у зелений пофарбувавши..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Iсторii екзамен сподiваюсь здати зможеш ти..</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+    <text>Екзамен з iторii Украiни?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Вище брати мусиш, падаване..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Галактики iторii екзамен..</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Розпочнемо..</text>
+  </DialogueLine>
+  <DialogueLine speaker="player">
+  <text>Зачекайте, що треба робити?</text>
+  </DialogueLine>
+  <DialogueLine speaker="npc">
+    <text>Iнших викладачiв шукати треба тобi…</text>
+  </DialogueLine>
+</dialogue>
